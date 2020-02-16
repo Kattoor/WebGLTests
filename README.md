@@ -1,1 +1,1 @@
-![Rotating Textured Cube](https://i.imgur.com/zO2TrrF.gif)
+<img src="textured-cube.gif?raw=true" width="400px">
